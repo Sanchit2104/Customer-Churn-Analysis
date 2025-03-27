@@ -2,6 +2,8 @@
 # Project Overview
 This project focuses on analyzing customer churn in the telecom industry using Power BI, SQL, and Python with Machine Learning. The goal is to identify patterns in customer behavior, analyze key churn factors, and develop a predictive model to forecast customers likely to churn.
 
+C:\Users\ASG\Pictures\Screenshots\Summary
+
 # Technologies Used
 # Power BI: Interactive dashboards for churn insights and trend analysis.
 # SQL: Data extraction, transformation, and querying for customer churn datasets.

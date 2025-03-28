@@ -4,6 +4,7 @@ This project focuses on analyzing customer churn in the telecom industry using P
 
 ![image alt](https://github.com/Sanchit2104/Customer-Churn-Analysis/blob/main/Summary.png?raw=true)
 
+![image alt](https://github.com/Sanchit2104/Customer-Churn-Analysis/blob/main/Prediction.png?raw=true)
 # Technologies Used
 # Power BI: Interactive dashboards for churn insights and trend analysis.
 # SQL: Data extraction, transformation, and querying for customer churn datasets.
